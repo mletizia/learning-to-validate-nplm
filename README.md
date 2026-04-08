@@ -1,6 +1,6 @@
-# learning-to-validate-nplm
+# Learning To Validate Generative Models: a Goodness-of-Fit Approach
 
-Repository to reproduce the tables and plots from [Learning To Validate Generative Models: a Goodness-of-Fit Approach]([https://www.genome.gov/](https://arxiv.org/abs/2511.09118))
+Repository to reproduce the tables and plots from [Learning To Validate Generative Models: a Goodness-of-Fit Approach](https://arxiv.org/abs/2511.09118)
 
 To compute p values and Z scores use this [notebook](compute_Zscores.ipynb)
 
