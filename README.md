@@ -1,6 +1,7 @@
 # Learning To Validate Generative Models: a Goodness-of-Fit Approach
 
-Repository to reproduce the tables and plots from [Learning To Validate Generative Models: a Goodness-of-Fit Approach](https://arxiv.org/abs/2511.09118)
+This repository provides the code required to reproduce the tables and plots from the paper:  
+**[Learning to Validate Generative Models: a Goodness-of-Fit Approach](https://arxiv.org/abs/2511.09118)**
 
  - To compute p values and Z scores use this [notebook](compute_Zscores.ipynb)
 
@@ -8,6 +9,12 @@ Repository to reproduce the tables and plots from [Learning To Validate Generati
 
  - To check the compatibility between the distribution of the test statistic under the null and a $\chi^2$ distribution use this [notebook](KS_test_chi2.ipynb)
 
-The NPLM test can be found [here](add link)
 
-The data used to perform the test can be found [here](add link)
+## Additional Resources
+
+- NPLM test implementation: *(add link)*
+  
+- Datasets used in the study: *(add link)*
+
+
+Contributors: P. Cappelli, G. Grosso, M. Letizia, H. Reyes-Gonzalez.
