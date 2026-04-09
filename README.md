@@ -17,4 +17,9 @@ This repository provides the code required to reproduce the tables and plots fro
 - Datasets used in the study: *(add link)*
 
 
-Contributors: P. Cappelli, G. Grosso, M. Letizia, H. Reyes-Gonzalez.
+## Contributors
+
+- P. Cappelli  
+- G. Grosso  
+- M. Letizia  
+- H. Reyes-Gonzalez  
