@@ -22,4 +22,4 @@ This repository provides the code required to reproduce the tables and plots fro
 - P. Cappelli  
 - G. Grosso  
 - M. Letizia  
-- H. Reyes-Gonzalez  
+- H. Reyes-González  
