@@ -26,16 +26,16 @@ fig, ax = plt.subplots(figsize=(6, 4))
 # =======================
 
 ax.errorbar(
-    x_left[:2], y_2[:2],
-    yerr=[yerr_lower_2[:2], yerr_upper_2[:2]],
+    x_left[:3], y_2[:3],
+    yerr=[yerr_lower_2[:3], yerr_upper_2[:3]],
     fmt='o', markersize=7,
     color='C1',
     ecolor='C1', elinewidth=1.5, capsize=3
 )
 
 ax.errorbar(
-    x_left[2:], y_2[2:],
-    yerr=[yerr_lower_2[2:], yerr_upper_2[2:]],
+    x_left[3:], y_2[3:],
+    yerr=[yerr_lower_2[3:], yerr_upper_2[3:]],
     fmt='*', markersize=10,
     color='C1',
     ecolor='C1', elinewidth=1.5, capsize=3
@@ -49,16 +49,16 @@ ax.plot(x, y_2, linestyle='--', color='C1', alpha=0.7, label='NF as ref')
 # =======================
 
 ax.errorbar(
-    x_right[:3], y[:3],
-    yerr=[yerr_lower[:3], yerr_upper[:3]],
+    x_right[:2], y[:2],
+    yerr=[yerr_lower[:2], yerr_upper[:2]],
     fmt='o', markersize=7,
     color='C0',
     ecolor='C0', elinewidth=1.5, capsize=3
 )
 
 ax.errorbar(
-    x_right[3:], y[3:],
-    yerr=[yerr_lower[3:], yerr_upper[3:]],
+    x_right[2:], y[2:],
+    yerr=[yerr_lower[2:], yerr_upper[2:]],
     fmt='*', markersize=10, 
     color='C0',
     ecolor='C0', elinewidth=1.5, capsize=3
