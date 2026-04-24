@@ -46,7 +46,7 @@ To reproduce the Mixture-of-Gaussians (MoG) experiments:
 
 ## Additional Resources
 
-- NPLM test implementation: *(add link)*
+- NPLM test implementation: (https://github.com/mletizia/kernel-nplm)
   
 - Datasets used in the study: https://zenodo.org/records/19631150
 
